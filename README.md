@@ -1,6 +1,6 @@
 ### Hi! I'm @ADFuji, and i'm a computer science student.
-My two main goals are:
-  - Either become a software engineer
-  - Or work in the field of cybersecurity 
-
-I am currently deepening my knowledge in C++ through the development of a video game using the SFML library.
+I have been developing small personal projects for 1 and a half years and currently I have as a project :
+- A task manager to manage at best a development team
+- A kind of discord like called Dystopia
+- A video game called Bash Adventure.
+I like C++, java, javascript and I'm starting php!
